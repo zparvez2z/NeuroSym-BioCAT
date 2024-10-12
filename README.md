@@ -1,4 +1,4 @@
-# NeuroSym-BioCAT: Leveraging Neuro-Symbolic Methods for Biomedical Scholarly Document Categorization and Question Answering
+# NeuroSym-BioCAT
 
 ## Introduction
 Biomedical research generates an immense amount of scholarly documents, making it challenging for researchers to efficiently extract relevant information. **NeuroSym-BioCAT** aims to address these challenges by:
@@ -33,33 +33,34 @@ To set up this repository, follow these steps:
 
 ## Usage
 
-Once the repository and dependencies are set up, you can use **NeuroSym-BioCAT** for document categorization and question answering.
-
-### Running the Categorization and Answer Extraction
+### 1. **Data Preprocessing**
+Start by enhancing the dataset by fetching PubMed abstracts using the PubMed IDs from the BioASQ10 dataset. Run the preprocessing step to clean the data by removing stop words, punctuation, special characters, and applying stemming for standardization.
 
 ```bash
-python categorize_and_extract.py --input path_to_input --model minilm --mode abstract
+python preprocess_data.py --input bioasq10_dataset --output preprocessed_data
 ```
 
-Options for the `--mode` argument:
-- `abstract`: Retrieve answers from scholarly document abstracts.
-- `gold-docs`: Use gold-standard scholarly documents.
-- `gold-snippets`: Use gold-standard snippets.
+### 2. **Document Categorization**
+To categorize scholarly documents, run the optimized OVB-LDA model with BI-POP CMA-ES for parameter tuning.
 
-### Fine-Tuning MiniLM (Optional)
 ```bash
-python finetune_minilm.py --data path_to_biomedical_data --epochs 10
+python categorize_documents.py --input preprocessed_data --output categorized_docs
 ```
 
-This will fine-tune the MiniLM model on your domain-specific biomedical dataset.
+### 3. **Answer Extraction**
+Extract answers from categorized documents using the fine-tuned MiniLM model. The system can handle factoid and list-type questions.
 
-## Performance and Evaluation
+```bash
+python extract_answers.py --input categorized_docs --questions bioasq10_questions --output answers
+```
 
-The model has been tested across a variety of biomedical question-answering tasks, demonstrating:
-- **Answer Extraction Precision**: Achieves accurate extraction of information with minimal resource overhead.
-- **Document Categorization**: High accuracy in categorizing biomedical documents using OVB-LDA with CMA-ES optimization.
+### 4. **Evaluation**
+Evaluate the model performance using precision, recall, F1-score for list-type questions, and MRR, strict, and lenient accuracy for factoid questions.
 
-Evaluation results and benchmarks can be found in the `results` folder.
+```bash
+python evaluate_model.py --answers extracted_answers --golden bioasq10_golden --metrics output_metrics
+``` 
+
 
 ## Future Work
 
