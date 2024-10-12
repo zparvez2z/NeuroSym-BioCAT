@@ -65,9 +65,9 @@ python evaluate_model.py --answers extracted_answers --golden bioasq10_golden --
 ## Future Work
 
 Planned improvements for **NeuroSym-BioCAT** include:
-- Further optimizing the **MiniLM** model for better performance on complex list-type queries.
-- Expanding the topic model with larger, domain-specific datasets.
-- Exploring strategies for improving efficiency in answer extraction, especially in real-world applications.
+- Task 1
+- Task 2
+- Task 3
 
 ## License
 
