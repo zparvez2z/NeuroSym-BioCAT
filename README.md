@@ -1,6 +1,7 @@
 # NeuroSym-BioCAT
 
 ## Introduction
+This repository contains the code and documentation of our extensive research and experimentaton on developing a neuro-symbolic scholarly document categorization based retrieval and question answering expected to deliver high-accuracy responses to a variety of biomedical queries. The system operates in two main parts: document retrieval and answer extraction, with several methods employed for each part. 
 Biomedical research generates an immense amount of scholarly documents, making it challenging for researchers to efficiently extract relevant information. **NeuroSym-BioCAT** aims to address these challenges by:
 - Optimizing topic modeling using **OVB-LDA** with advanced optimization techniques for document categorization.
 - Leveraging the **distilled MiniLM model** fine-tuned on domain-specific data for high-precision biomedical answer extraction.
