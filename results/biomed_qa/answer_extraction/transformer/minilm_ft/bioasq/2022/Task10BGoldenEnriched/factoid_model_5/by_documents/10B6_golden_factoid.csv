@@ -1,0 +1,7 @@
+body,type,exact_answer,predicted_answers,predicted_answer_pos
+Which is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4)?,factoid,"[['L124', 'Omega-1 (Ω1) loop']]","[['helix'], ['C-terminal -helix']]",?
+"What causes the ""worst headache"" of a patient's life?",factoid,"[['Subarachnoid hemorrhage (SAH)', 'Aneurysmal subarachnoid hemorrhage']]","[['subarachnoid hemorrhage'], ['Subarachnoid Haemorrhage'], ['thunderclap headache']]",?
+Which disease phenotype has the worst prognosis in Duchenne Muscular Dystrophy?,factoid,[['Dp140 isoform']],"[['cDMD'], ['glucocorticoids'], ['myotonic dystrophy'], ['cardiac'], ['DMD']]",?
+What is the most sensitive test for the diagnosis of multiple sclerosis?,factoid,"[['Magnetic resonance imaging', 'MRI', 'MR']]","[['MRI'], ['Magnetic resonance'], ['CT']]",?
+Should acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) be used when providing supportive care for COVID-19?,factoid,"[['Acetaminophen', 'Paracetamol']]","[['acetaminophen'], ['non-steroidal anti-inflammatory drugs (NSAIDs'], ['NSAIDs']]",?
+What is the incubation period for COVID-19?,factoid,"[['5-7 days', '5 days', '6 days', '7 days']]","[['6.5 days'], ['Delta'], ['2-14 days'], ['14 d'], ['7.5\u2009days']]",?

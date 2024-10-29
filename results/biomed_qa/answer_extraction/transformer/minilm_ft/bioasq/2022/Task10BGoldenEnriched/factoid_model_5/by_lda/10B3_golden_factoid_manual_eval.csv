@@ -1,0 +1,33 @@
+body,type,exact_answer,predicted_answers,predicted_answer_pos
+What is the use of Atogepant?,factoid,[['preventive treatment of migraine']],"[['migraine'], ['Migraine'], ['migraine prevention']]",3
+What is the function of the protein SERT?,factoid,[['Serotonin transporter']],"[['serotonin transporter'], ['DNA'], ['secrete soluble mucins'], ['serotonin']]",1
+What causes Ocular Thelaziasis?,factoid,[['Thelazia callipaeda']],"[['Thelazia callipaeda'], ['nematodes of the genus Thelazia'], ['nematodes'], ['nematode of the genusThelazia']]",1
+What is the role of cytidine deaminase in healthy cells?,factoid,[['deamination of deoxycytidines']],"[['antiviral immunity'], ['inflammation'], ['Diabetic retinopathy'], ['Diversification of B cell receptors'], ['plasmablast depletion mechanism']]",0
+Through which pathway does the FTO-guided demethylation of GADD46 drive myogenesis?,factoid,[['p38 MAPK pathway']],"[['mitotic'], ['MAPK'], ['FA pathway'], ['Classical driver mutations in acute myeloid leukemia (AML) typically affect regulators of cell proliferation, differentiation, and survival. The selective advantage of increased proliferation, improved survival, and reduced differentiation on leukemia progression is immediately obvious. Recent large-scale sequencing efforts have uncovered numerous novel AML-associated mutations. Interestingly, a substantial fraction of the most frequently mutated genes encode general regulators of transcription and chromatin state. Understanding the selective advantage conferred by these mutations remains a major challenge. A striking example are mutations in genes of the cohesin complex, a major regulator of three-dimensional genome organization'], ['deep transverse metatarsal']]",0
+What is the function of the protein PIEZO1?,factoid,[['mechanotransduction process']],"[['mechanotransduction process'], ['membrane proteins that sense mechanical stimuli'], ['tryptophan-degrading enzyme indoleamine 2,3-dioxygenase'], ['serotonin transporter'], ['membrane trafficking']]",1
+What is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1?,factoid,[['RRACH motif']],"[['DNMT2'], ['Protein S-palmitoylation'], ['palmitate'], ['pseudouridine'], ['KLF4']]",0
+Which disorder is caused by biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)?,factoid,[['Oguchi disease']],"[['Oguchi disease'], ['spastic paraplegia'], ['Fibrolamellar carcinoma'], ['cancers']]",1
+Which disease is treated with Tebentafusp?,factoid,[['Metastatic Uveal Melanoma']],"[['Melanoma'], ['Uveal melanoma'], ['melanoma']]",2
+What are TAMs in cancer therapy?,factoid,[['Tumor Associated Macrophages']],"[['Tumor-associated macrophages'], ['tumor-associated macrophages']]",1
+Which java utility has been developed for class hidden markov models?,factoid,[['JUCHMME']],"[['GprotPRED'], ['MBPpred'], ['WISP'], ['PreSSAPro']]",0
+Where is the body would the Peyer's patches be found,factoid,"[['gut', 'abdomen', 'the small intestine', 'intestinal mucosal']]","[['mouse intestine'], ['distal ileum'], ['small intestine'], ['gut lumen']]",3
+Which disease is treated with Risdiplam?,factoid,[['spinal muscular atrophy']],"[['SMA'], ['spinal muscular atrophy'], ['Spinal muscular atrophy']]",2
+When was galcanezumab approved by FDA?,factoid,[['September 2018']],"[['2003'], ['September 2018'], ['June 7th 2021'], ['2017'], ['2018']]",2
+Tofersen has been developed for treatment of which disease?,factoid,[['amyotrophic lateral sclerosis']],"[['lung cancer'], ['paroxysmal nocturnal hemoglobinuria'], ['migraine'], ['familial chylomicronemia syndrome'], ['ANCA-associated vasculitis']]",0
+What is the cause of lactose intolerance?,factoid,[['Lactase deficiency']],"[['lactase nonpersistence'], ['haemophagocytic lymphohistiocytosis'], ['significantly alters calcium intake and absorption'], ['antioxidant'], ['pHLH)']]",1
+What is the activity of a Oligosaccharyltransferases ?,factoid,[['attachment of glycans to specific amino acid residues in target proteins']],"[['Glycosylation'], ['O-glycosylation'], ['mechanotransduction'], ['Bioconjugate vaccines']]",1
+On what chromosome would the MKKS gene for McKusick-Kaufman(AKA Kaufman-McKusick) syndrome be found?,factoid,"[['20', '20p12', 'mkks or bbs6 gene on chromosome 20p12', '20p12 between D20S162 and D20S894 markers']]","[['MIM'], ['20p12'], ['OMIM'], ['loci']]",2
+What is another name for keratomileusis?,factoid,[['LASIK']],"[['LASIK'], ['LASEK']]",1
+In which motif of the RUNX1T1 protein is the rs34269950 SNP located?,factoid,[['RRACH motif']],"[['RRACH'], ['SF2'], ['Asp-Glu-Ala-Asp (D-E-A-D'], ['RecA'], ['signature D-E-A-D motif']]",1
+Isotocin is an homolog of what hormone?,factoid,[['oxytocin']],"[['oxytocin'], ['arginine vasopressin']]",1
+Fingolimod is a selective antagonist for which molecule?,factoid,[['S1P1']],"[['calcitonin gene-related peptide'], ['S1P1'], ['Glycans'], ['S1P']]",2
+Telomestatin is derived from what organism?,factoid,[['Streptomyces anulatus']],"[['Streptomyces anulatus'], ['Streptomyces anulatus 3533-SV4'], ['GBM'], ['Guanine-rich']]",1
+Which plant is khellin extracted from?,factoid,[['Ammi visnaga']],"[['Ammi visnaga'], ['porcine'], ['broccoli'], ['brodifacoum'], ['strabismus']]",1
+What is vesiduction?,factoid,"[[""'Vesiduction' as a fourth mode of intercellular DNA transfer.""]]","[['Epigenetic regulation'], ['horizontal gene transfer'], ['pattern vision'], ['transduction'], [""amyloid-β (Aβ) oligomer hypothesis of Alzheimer's disease (AD)""]]",0
+What is the route of administration of eptinezumab?,factoid,[['Intravenously']],"[['thiamine'], ['intravenous'], ['bariatric surgery'], ['Risdiplam'], ['Oral']]",2
+What is the origin of HEp-2 cells?,factoid,[['human larynx epidermoid carcinoma cell line']],"[['gliomas'], ['MIS-C'], ['EMT'], ['head and neck squamous cell carcinoma'], ['epidermal growth factor']]",4
+What is another name for bimagrumab,factoid,[['BYM338']],"[['Nephropathic cystinosis is a rare lysosomal storage disorder. Patients present in the first year of life with renal Fanconi syndrome'], ['maritima thermotiga'], ['circRNAs'], ['HisH-HisF'], ['sporadic inclusion body myositis']]",0
+What is the generic name of the Xofluza?,factoid,[['Baloxavir marboxi']],"[['Baloxavir marboxil'], ['baloxavir marboxil']]",1
+What is the synonym of MK-1602?,factoid,[['ubrogepant']],"[['CAPOX'], ['C-Spine Rule'], ['OHRQoL'], ['CHALICE'], ['SARS-CoV-2']]",0
+"How many families did the 100,000 Genomes Pilot enrol?",factoid,[['2183']],"[['100'], ['300'], ['219'], ['65'], ['16']]",0
+What methodology does the Oncomine Dx target test use?,factoid,"[['next generation sequencing', 'NGS']]","[['parallel sequencing'], ['ACMG/AMP criteria'], ['skin prick test'], ['bivariate random-effects model']]",1

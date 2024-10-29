@@ -1,0 +1,33 @@
+body,type,exact_answer,predicted_answers,predicted_answer_pos
+What is the use of Atogepant?,factoid,[['preventive treatment of migraine']],"[['migraine'], ['Migraine'], ['migraine prevention']]",3
+What is the function of the protein SERT?,factoid,[['Serotonin transporter']],"[['serotonin transporter'], ['serotonin receptor'], ['differential regulation'], ['serotonin (5-HT) affects valvular degeneration and dogs with myxomatous mitral valve disease (MMVD) exhibit alterations in 5-HT signaling. In Maltese dogs, 3 single nucleotide polymorphisms (SNPs) in the 5-HT transporter']]",1
+What causes Ocular Thelaziasis?,factoid,[['Thelazia callipaeda']],"[['Thelazia callipaeda'], ['nematodes of the genus Thelazia'], ['nematodes'], ['nematode of the genusThelazia']]",1
+What is the role of cytidine deaminase in healthy cells?,factoid,[['deamination of deoxycytidines']],"[['antiviral immunity'], ['Diversification of B cell receptors'], ['RNA editing'], ['deamination of deoxycytidines to deoxyuracils within immunoglobulin genes to induce somatic hypermutation and class-switch recombination'], ['RNA editing process']]",4
+Through which pathway does the FTO-guided demethylation of GADD46 drive myogenesis?,factoid,[['p38 MAPK pathway']],"[['MAPK'], ['p38 MAPK pathway']]",2
+What is the function of the protein PIEZO1?,factoid,[['mechanotransduction process']],"[['mechanotransduction process'], ['membrane proteins that sense mechanical stimuli'], ['osteogenic differentiation'], ['membrane trafficking'], ['osteogenic pathway']]",1
+What is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1?,factoid,[['RRACH motif']],"[['rs34269950'], [""rs34269950 located in the 'RRACH' motif""], ['FTO recognition motif']]",2
+Which disorder is caused by biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)?,factoid,[['Oguchi disease']],[['Oguchi disease']],1
+Which disease is treated with Tebentafusp?,factoid,[['Metastatic Uveal Melanoma']],"[['Uveal melanoma'], ['melanoma']]",1
+What are TAMs in cancer therapy?,factoid,[['Tumor Associated Macrophages']],"[['tumor-associated macrophages'], ['Tumor-associated macrophages']]",1
+Which java utility has been developed for class hidden markov models?,factoid,[['JUCHMME']],[['JUCHMME']],1
+Where is the body would the Peyer's patches be found,factoid,"[['gut', 'abdomen', 'the small intestine', 'intestinal mucosal']]","[['intestinal'], ['mouse intestine'], ['small intestine']]",3
+Which disease is treated with Risdiplam?,factoid,[['spinal muscular atrophy']],"[['SMA'], ['spinal muscular atrophy']]",2
+When was galcanezumab approved by FDA?,factoid,[['September 2018']],[['September 2018']],1
+Tofersen has been developed for treatment of which disease?,factoid,[['amyotrophic lateral sclerosis']],"[['amyotrophic lateral sclerosis'], ['pulmonary embolus']]",1
+What is the cause of lactose intolerance?,factoid,[['Lactase deficiency']],"[['lactase deficiency'], ['lactase nonpersistence'], ['a deficiency in the lactase enzyme'], ['significantly alters calcium intake and absorption'], ['antioxidant']]",1
+"What is the activity of a Oligosaccharyltransferases ?",factoid,[['attachment of glycans to specific amino acid residues in target proteins']],"[['Glycosylation'], ['en bloc transfer of glycan chains onto a nascent polypeptide'], ['Bioconjugate vaccines'], ['Protein glycosylation B"" (PglB) from Campylobacter jejuni, as well as for three additional PglB homologs from Campylobacter coli, Campylobacter lari, and Desulfovibrio gigas. Importantly, all of these enzymes catalyzed N-glycosylation'], ['N-glycosylation']]",2
+"On what chromosome would the MKKS gene for McKusick-Kaufman(AKA Kaufman-McKusick) syndrome be found?",factoid,"[['20', '20p12', 'mkks or bbs6 gene on chromosome 20p12', '20p12 between D20S162 and D20S894 markers']]","[['MIM'], ['20p12'], ['OMIM'], ['loci']]",2
+"What is another name for  keratomileusis?",factoid,[['LASIK']],[['LASIK']],1
+"In which motif of the RUNX1T1 protein is the rs34269950 SNP located?",factoid,[['RRACH motif']],[['RRACH']],1
+"Isotocin is an homolog of what hormone?",factoid,[['oxytocin']],"[['oxytocin'], ['Oxytocin']]",1
+"Fingolimod is a selective antagonist for which molecule?",factoid,[['S1P1']],"[['S1PR'], ['sphingolipid molecule'], ['S1P receptors']]",1
+"Telomestatin is derived from what organism?",factoid,[['Streptomyces anulatus']],"[['Streptomyces anulatus'], ['Streptomyces anulatus 3533-SV4']]",1
+"Which plant is khellin extracted from?",factoid,[['Ammi visnaga']],"[['Ammi visnaga'], ['disodium cromoglycate']]",1
+"What is vesiduction?",factoid,"[[""'Vesiduction' as a fourth mode of intercellular DNA transfer.""]]","[['horizontal gene transfer'], ['transduction'], ['fourth mode of intercellular DNA transfer']]",3
+"What is the route of administration of eptinezumab?",factoid,[['Intravenously']],[['intravenous']],1
+"What is the origin of  HEp-2 cells?",factoid,[['human larynx epidermoid carcinoma cell line']],"[['oropharyngeal carcinoma'], ['oropharyngeal cancer cells'], ['larynx epidermoid carcinoma cell line'], ['EMT'], ['necrotic pathway']]",3
+"What is another name for bimagrumab",factoid,[['BYM338']],"[['sporadic inclusion body myositis'], ['esophageal carcinoma'], ['Long-term treatment up to 2 years with bimagrumab']]",0
+"What is the generic name of the Xofluza?",factoid,[['Baloxavir marboxi']],[['Baloxavir marboxil']],1
+"What is the synonym of MK-1602?",factoid,[['ubrogepant']],"[['Ubrogepant'], ['freedom']]",1
+"How many families did the 100,000 Genomes Pilot enrol?",factoid,[['2183']],"[['2183'], ['57,000 genomes enabled the discovery of three'], ['19']]",1
+"What methodology does the Oncomine Dx target test use?",factoid,"[['next generation sequencing', 'NGS']]","[['sequencing'], ['ROS1 immunohistochemistry'], ['IHC']]",1

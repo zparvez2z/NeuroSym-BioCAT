@@ -1,0 +1,30 @@
+body,type,exact_answer,predicted_answers,predicted_answer_pos
+"Where is the protein ""Single-stranded DNA-binding protein"" found?",factoid,[['Mitochondrion']],"[['mitochondrial'], ['mitochondrial genome'], ['mammalian mitochondria'], ['mitochondrial DNA metabolism in Schneider cells'], ['mitochondrion is a semiautonomous organelle that provides energy for life activities and balances plant growth and stress responses. Abscisic acid']]",1
+For which indication has inotersen been approved?,factoid,[['stage 1 and stage 2 hereditary transthyretin amyloidosis polyneuropathy']],"[['transthyretin amyloidosis'], ['hATTR polyneuropathy']]",1
+Which disease is caused by mutations in the gene CALR?,factoid,[['myeloproliferative neoplasms']],"[['myeloproliferative neoplasms'], ['thrombocythemia'], ['Myelofibrosis'], ['chronic myeloid leukemia'], ['cancer']]",1
+"Which tool has been developed for annotation of Gα, Gβ and Gγ subunits of G-proteins?",factoid,[['GprotPRED']],[['GprotPRED']],1
+What is the KDEL retention signal?,factoid,[['ER retention sequence (KDEL)']],"[['scFvT84.66'], ['CRT signal peptide'], ['scrapie PrP isoform'], ['ER retention signal'], ['fusing the antibody with a KDEL retention signal, the interaction of antibodies and native membrane antigens occurs inside the endoplasmic reticulum']]",4
+When was Vitravene approved in Brazil?,factoid,[['1999']],[['1999']],1
+What is the association between maternal and fetal alloantigens and RANTES production?,factoid,[['induction of tolerance']],"[['pregnancy losses'], ['Cytokines'], ['in vitro modulation'], ['inflammatory process of parturition and IL-10 in the protection of the fetal allograft. In addition, PGE2 may have an important immunomodulat'], ['inflammatory']]",0
+What is the half-life of epimutations across generations of C. elegans?,factoid,[['Typically 2-3 generations. Sometimes >10 generations.']],"[['three'], ['nematode Caenorhabditis elegans'], ['familial chylomicronemia syndrome']]",0
+What does temsirolimus inhibit?,factoid,[['mTOR']],"[['mTOR'], ['mTOR pathways'], ['tyrosine kinase']]",1
+What happens to the expression levels of piRNAs in the case of intracranial aneurysm rupture?,factoid,[['Decreased']],"[['decrease in RNA abundance'], ['overrepresentation'], ['downregulated']]",1
+Lucio’s Phenomenon is characteristic to which disease?,factoid,[['leprosy']],"[['Leprosy'], ['leprosy']]",1
+Where are the complexins expressed?,factoid,[['presynaptic terminal']],"[['neuronal presynaptic terminals'], ['heterologous expression systems'], ['Ribbon synapses'], ['C-terminal domain'], ['N-terminal domain']]",1
+What is the gene ABCG1 encoding?,factoid,[['ATP binding cassette (ABC) transporter']],"[['ATP‑binding cassette'], ['ABCA1'], ['ATP binding cassette'], ['CD36'], ['lncRNA AL355711']]",3
+When was Volanesorsen approved in the EU?,factoid,[['May 2019']],[['May 2019']],1
+How many copies of LBX are found in teleosts?,factoid,[['8']],"[['8'], ['8 Lbx paralogons...'], ['3']]",1
+What is the drug Aduhelm approved for?,factoid,"[["treatment of Alzheimer's disease"]]","[['anti-Alzheimer drug'], [""Alzheimer's disease""], [""the treatment of Alzheimer's disease""]]",3
+What disease is presenilin involved in?,factoid,"[["familial Alzheimer's disease"]]","[[""Alzheimer's disease""], ['AD'], ['fAD']]",1
+In what part of the body is the masseter muscle located?,factoid,"[['Jaw', 'head', 'face', 'orofacial region', 'mandible']]","[['temporal'], ['Facial'], ['temporomandibular joint'], ['belly'], ['facial']]",2
+What is the function of the protein SLC26A5?,factoid,[['voltage-dependent transporter']],"[['nonlinear capacitance'], ['amplify...'], ['acute sensitivity...'], ['voltage-dependent motor...'], ['voltage-dependent transporter']]",5
+Bimekizumab is used for treatment of which disease?,factoid,[['psoriasis']],"[['psoriasis'], ['Psoriasis']]",1
+What is the rate of epimutations in C. elegans?,factoid,[['25 times greater than DNA sequence changes']],"[['25 times greater'], ['25 times greater than DNA sequence changes']]",2
+Which disease can be prevented with PfSPZ Vaccine?,factoid,[['malaria']],[['malaria']],1
+What is MACE in the context of cardiotoxicity?,factoid,[['Major Adverse Cardiovascular Events.']],"[['symptomatic heart...'], ['major adverse cardiac event'], ['Main adverse cardiac events'], ['major adverse cardiac events'], ['Major adverse cardiovascular events']]",5
+Which clinical trials led to the first approval of Volanesorsen by the EU?,factoid,[['APPROACH and COMPASS']],[['phaseIII APPROACH and COMPASS studies']],1
+Which company developed Waylivra?,factoid,"[['Ionis Pharmaceuticals', 'Akcea Therapeutics']]","[['Ionis Pharmaceuticals']]",1
+What is the most frequent evolution (next stage) when Aortic intramural hematoma (IMH) is not treated?,factoid,"[['aortic dissection', 'aortic type A dissection', 'dissecting aneurysm', 'classic aortic dissection']]","[['aortic rupture'], ['pseudoaneurysm'], ['hypertension'], ['intimal flap formation'], ['atherosclerotic ulcer']]",0
+When is lorlatinib used?,factoid,[['In ALK-positive NSCLC']],"[['positive non-small cell lung cancer'], ['third-generation ALK inhibitor...'], ['untreated non-small cell lung cancer'], ['advanced stageEML4-ALKfused...'], ['After 1 year of treatment']]",1
+Ladybird homeobox (Lbx) transcription factors regulate the development of what body systems/organs?,factoid,[['muscle and nervous system']],"[['heart'], ['muscle'], ['spine'], ['neural tubes']]",2
+When is the protein OAS1 activated?,factoid,[['IFN stimulated for antiviral resonse.']],"[['initial resistance to virus infection'], ['RNase L'], ['HIV sexual transmission...'], ['IPF']]",0

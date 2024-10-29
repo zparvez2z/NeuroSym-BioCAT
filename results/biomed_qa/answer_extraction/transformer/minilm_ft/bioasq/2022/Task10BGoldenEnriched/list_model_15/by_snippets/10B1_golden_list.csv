@@ -1,0 +1,15 @@
+body,type,exact_answer,predicted_answers,TP,FP,FN
+List monoclonal antibodies included in the REGEN-COV.,list,"[['casirivimab'], ['imdevimab']]","[['casirivimab'], ['REGN10933'], ['imdevimab'], ['Casirivimab']]",?,?,?
+Which databases are devoted to 3D genome interactions?,list,"[['3DIV'], ['3D Genome Browser'], ['GMOL'], ['3Disease Browser'], ['3DGD']]","[['3DIV'], ['3dgenome'], ['3DGD'], ['Genome'], ['3Disease'], ['GMOL']]",?,?,?
+Where does REGN5458 bind to?,list,"[['B-cell maturation antigen', 'BCMA'], ['CD3']]",[['B-cell maturation antigen (BCMA)']],?,?,?
+What are the currently FDA approved monoclonal antibodies for myeloma?,list,"[['belantamab mafodotin'], ['daratumumab'], ['elotuzumab'], ['isatuximab']]",[['daratumumab']],?,?,?
+List the drug targets of Faricimab?,list,"[['VEGF-A'], ['Ang-2']]","[['Ang2'], ['Ang-2'], ['VEGF-A'], ['vascular endothelial growth factor A'], ['VEGF/Ang-2'], ['brolucizumab, port delivery system'], ['angiopoietin-2']]",?,?,?
+Which CYP genes' expression is decreased at the in vivo level following pomegranate juice consumption?,list,"[['CYP1A2'], ['CYP3A']]",[['CYP1A2']],?,?,?
+Class-defining mutations in which genes drive FLT3-ITD-mutant AML?,list,"[['NPM1'], ['MLL'], ['CEBPA']]",[['CEBPA']],?,?,?
+Belzutifan has shown effectiveness for which diseases?,list,"[['renal cell carcinomas'], ['hemangioblastomas'], ['pancreatic neuroendocrine tumors']]","[['VHL disease'], ['Kidney Cancer'], ['von Hippel-Lindau syndrome'], ['solid tumours'], ['clear cell mRCC tumors with sarcomatoid differentiation'], ['ccRCC']]",?,?,?
+What is caused by biallelic variants in SPATA5L1?,list,"[['intellectual disability'], ['microcephaly'], ['spastic-dystonic cerebral palsy'], ['epilepsy'], ['hearing loss']]","[['hearing loss'], ['cerebral palsy, epilepsy, and hearing loss']]",?,?,?
+A combination of which two drugs was tested in the IMbrave150 trial?,list,"[['atezolizumab'], ['bevacizumab']]","[['atezolizumab'], ['bevacizumab']]",?,?,?
+List signs of patients with biallelic variants in KARS1,list,"[['autism'], ['hyperactive behavior'], ['pontine hypoplasia'], ['cerebellar atrophy with prevalent vermian involvement']]","[['hearing loss'], ['autism'], ['cerebellar atrophy']]",?,?,?
+List diseases that are  repeat expansion disorders (REDs).,list,"[[""Huntington's disease,""], ['amyotrophic lateral sclerosis'], ['frontotemporal dementia'], ['fragile X-associated tremor/ataxia syndrome', 'FRAXA', 'FRAXE'], ['myotonic dystrophies'], ['FMR1 disorders,', 'Fragile X-related disorders (FXDs),'], ['SCA3 (Spinocerebellar ataxia Type 3 or Machado-Joseph disease)'], ['DRPLA (Dentatorubropallidoluysian atrophy)'], ['SBMA (Spinal and bulbar muscular atrophy'], ['Baratela-Scott syndrome']]","[['Fragile-X related disorders'], ['Machado-Joseph disease'], ['Fragile X-related disorders'], ['Fragile X (FX) syndrome']]",?,?,?
+Which drugs are included in the CAPIRI regimen?,list,"[['capecitabine'], ['irinotecan']]","[['irinotecan'], ['Capecitabine'], ['capecitabine']]",?,?,?
+Which mutations are inhibited by Ripretinib?,list,"[['KIT'], ['PDGFRA']]","[['KIT'], ['PDGFRA'], ['PDGFRA Variants']]",?,?,?

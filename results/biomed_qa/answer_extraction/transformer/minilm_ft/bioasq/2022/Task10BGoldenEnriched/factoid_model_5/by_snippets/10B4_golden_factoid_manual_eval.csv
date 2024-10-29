@@ -1,0 +1,32 @@
+body,type,exact_answer,predicted_answers,predicted_answer_pos
+Which enzyme is inhibited by Aramchol?,factoid,[['hepatic stearoyl-CoA desaturase 1']],"[['stearoyl-coenzyme-A-desaturase-1'], ['SCD-1'], ['hepatic stearoyl-CoA desaturase'], ['stearoyl CoA desaturase 1'], ['hepatic stearoyl-CoA desaturase 1']]",5
+What is the cause of the Diamond Blackfan Anemia?,factoid,[['Diamond Blackfan Anemia (DBA) is a congenital bone marrow failure syndrome associated with ribosomal gene mutations that lead to ribosomal insufficiency.']],"[['ribosomal protein S19 gene mutation'], ['ribosomal gene mutations that lead to ribosomal insufficiency.'], ['Shwachman-Diamond syndrome'], ['erythropoiesis'], ['myelodysplastic syndrome (MDS), acute myeloid leukemia (AML), and solid tumors. Unfortunately, no specific pharmacological therapies have been highly effective for IBMFS. Hematopoietic stem cell transplantation provides a cure for aplastic or myeloid neoplastic']]",2
+Which molecule is targeted by Fenebrutinib?,factoid,"[[""Bruton's tyrosine kinase""]]","[['BTK'], ['Bruton tyrosine kinase inhibitors'], [""Bruton's tyrosine kinase""], ['AVL-292'], ['Bruton tyrosine kinase']]",3
+Which protein family is epiregulin a member of?,factoid,[['epidermal growth factor family']],"[['epidermal growth factor (EGF) family'], ['reactive oxygen species']]",1
+What is the Daughterless gene?,factoid,[['The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined.']],"[['class I helix-loop-helix transcription factor'], ['transcriptional regulator'], ['DNA binding proteins'], ['da'], ['zygote']]",0
+What is amphiregulin a ligand of?,factoid,[['epidermal growth factor receptor']],"[['epidermal growth factor receptor'], ['ERK']]",1
+What is the function of the protein calreticulin?,factoid,[['chaperone and Ca2+ buffer to assist correct protein folding within the ER']],"[['radiation resistance'], ['glycoprotein quality control'], ['N-glycosylation'], ['endoplasmic reticulum (ER)-resident protein involved in a spectrum of cellular processes.'], ['protein fold']]",0
+What is the effect of epiregulin on leptin secretion?,factoid,"[['induction', 'increase']]","[['energy dissipation'], ['hyperleptinemia'], ['EREG treatment reduced iAb fat mass']]",0
+Which JASPAR release is JASPAR 2022?,factoid,[['9th']],"[['JASPAR'], ['DNA binding domains to consider plant-specific TFs']]",0
+What is the SPRTN protein function?,factoid,[['DNA-protein crosslink proteolysis repair']],"[['DNA replication'], ['DNA-protein crosslink proteolysis repair'], ['covalent DNA-protein crosslinks'], ['DNA-protein crosslinks (DPCs) have emerged as pervasive sources of genome instability. DPCs are targeted for repair by DNA-dependent proteases of the Wss1/SPRTN family.'], ['ubiquitin switch']]",2
+What part of the body is associated with Cauda equina,factoid,[['spine']],"[['spine'], ['spinal cords'], ['spinal cord']]",1
+What does RUNX1T1 stand for?,factoid,[['runt-related transcription factor 1']],"[['Runt-related transcription factor 1'], ['N6-methyladenosine (m6A) methylation modification site'], ['FTO recognition']]",1
+"Is METTL3 an m6A writer, reader or eraser?",factoid,[['Writer']],"[['Deletion'], ['m6A methylation']]",0
+What is the drug  gantenerumab targeting?,factoid,"[['Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain.']]","[['Aβ'], ['Mutation'], ['Aβ oligomers'], ['amyloid plaque'], ['beta-amyloid']]",4
+Which protein is targeted by Herceptin?,factoid,[['Her2']],"[['ERBB2'], ['ErbB2'], ['phosphoinositide'], ['PD-1'], ['PLCγ']]",2
+What does PCAT6 stand for?,factoid,[['rostate cancer-associated transcript 6']],"[['prostate cancer-associated transcript 6'], ['molecular sponge']]",1
+What organ is associated with a Gleason pattern or Gleason Score?,factoid,[['prostate']],"[['prostate'], ['prostate adenocarcinomas'], ['prostate adenocarcinoma']]",1
+Which tool has been developed to identify the glycan shielding of glycosylated proteins?,factoid,[['GLYCO']],[['GLYCO']],1
+What does the gene symbol EREG stand for?,factoid,[['epiregulin']],"[['epiregulin'], ['HBEGF could restore the ERK activation waves. Aiming at complete elimination of the ERK activation waves, we further attempted to knockoutNRG1']]",1
+Which tool has been developed for proteome-wide detection of membrane lipid-binding proteins?,factoid,[['MBPpred']],[['MBPpred']],1
+What disease can be treated with Avacopan?,factoid,[['ANCA-associated vasculitis']],"[['ANCA-associated vasculitis'], ['eosinophilic granulomatosis with polyangiitis'], ['neutrophil cytoplasmic autoantibody (ANCA)-associated vasculitis']]",1
+What disease is also known as Bechterew's Disease?,factoid,[['Ankylosing spondylitis']],"[['ankylosing spondylitis'], ['Ankylosing spondylitis']]",1
+Through which pathway does epiregulin promote leptin secretion?,factoid,[['EGFR/MAPK pathway']],"[['EGFR/MAPK'], ['EGFR/MAPK pathway'], ['mitochondrial oxidation']]",2
+What is the target of Sotorasib?,factoid,[['KRASG12C']],"[['KRAS G12C'], ['KRASG12C'], ['KRASG12Cinhibitor AMG510'], ['RAS'], ['KRASG12']]",2
+What is Luteolin?,factoid,[['flavonoid']],"[['flavone'], ['flavonoid']]",2
+Which is the literature-based database of phenotypes?,factoid,[['PheneBank']],"[['PheneBank'], ['Bioinformatics']]",1
+Idecabtagene vicleucel can be used for treatment of which disease?,factoid,[['Multiple Myeloma']],"[['multiple myeloma'], ['KarMMa']]",1
+"LINC00339 is a diagnostic, prognostic and treatment efficacy biomarker for what disease?",factoid,[['cancer']],"[['Glioma'], ['gastric cancer'], ['endometriosis'], ['cancers'], ['pancreatic cancer']]",4
+Which disease is caused by repeat expansion in VWA1?,factoid,[['Recessive hereditary motor neuropathy']],[['motor neuropathy']],1
+Is PPROM a condition that occurs in males or females?,factoid,[['Females']],"[['pregnant women'], ['male'], ['females'], ['female']]",3
+What is the target of Sutimlimab?,factoid,[['C1s']],"[['C1s'], ['erythrocytes'], ['complement'], ['serine protease C1s']]",1
