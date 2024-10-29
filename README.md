@@ -38,7 +38,7 @@ To set up this repository, follow these steps:
 Start by enhancing the dataset by fetching PubMed abstracts using the PubMed IDs from the BioASQ10 dataset. run the [bioasq_doc_prep.ipynb](notebooks/bioasq_doc_prep.ipynb)
 
 ### 2. **Document Categorization**
-To categorize scholarly documents, run the [topic_modeling](notebooks/topic_modeling.ipynb)
+To categorize scholarly documents, run the [topic_modeling.ipynb](notebooks/topic_modeling.ipynb)
 or 
 ```bash
 python biomed_qa/document_retrieval/topic_model/topic_modeling.py
@@ -53,7 +53,7 @@ python biomed_qa/answer_extraction/transformer_based/answer_extraction.py
 ### 4. **Evaluation**
 Evaluate the document categorization performance see [evaluate_by_batch.ipynb](notebooks/evaluate_by_batch.ipynb)
 
-Evaluate the fines-tuned model performance using precision, recall, F1-score for list-type questions, and MRR, strict, and lenient accuracy for factoid questions see (answer_extraction_evaluation.ipynb)[notebooks/answer_extraction_evaluation.ipynb]
+Evaluate the fines-tuned model performance using precision, recall, F1-score for list-type questions, and MRR, strict, and lenient accuracy for factoid questions see [answer_extraction_evaluation.ipynb](notebooks/answer_extraction_evaluation.ipynb)
 
 ## Future Work
 
