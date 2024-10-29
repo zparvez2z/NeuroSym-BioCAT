@@ -35,33 +35,25 @@ To set up this repository, follow these steps:
 ## Usage
 
 ### 1. **Data Preprocessing**
-Start by enhancing the dataset by fetching PubMed abstracts using the PubMed IDs from the BioASQ10 dataset. Run the preprocessing step to clean the data by removing stop words, punctuation, special characters, and applying stemming for standardization.
-
-```bash
-python preprocess_data.py --input bioasq10_dataset --output preprocessed_data
-```
+Start by enhancing the dataset by fetching PubMed abstracts using the PubMed IDs from the BioASQ10 dataset. run the [bioasq_doc_prep.ipynb](notebooks/bioasq_doc_prep.ipynb)
 
 ### 2. **Document Categorization**
-To categorize scholarly documents, run the optimized OVB-LDA model with BI-POP CMA-ES for parameter tuning.
-
+To categorize scholarly documents, run the [topic_modeling](notebooks/topic_modeling.ipynb)
+or 
 ```bash
-python categorize_documents.py --input preprocessed_data --output categorized_docs
+python biomed_qa/document_retrieval/topic_model/topic_modeling.py
 ```
 
 ### 3. **Answer Extraction**
-Extract answers from categorized documents using the fine-tuned MiniLM model. The system can handle factoid and list-type questions.
-
+For fine-tuning the MiniLM model and answer extraction run [answer_extraction.ipynb](notebooks/answer_extraction.ipynb). or
 ```bash
-python extract_answers.py --input categorized_docs --questions bioasq10_questions --output answers
+python biomed_qa/answer_extraction/transformer_based/answer_extraction.py
 ```
 
 ### 4. **Evaluation**
-Evaluate the model performance using precision, recall, F1-score for list-type questions, and MRR, strict, and lenient accuracy for factoid questions.
+Evaluate the document categorization performance see [evaluate_by_batch.ipynb](notebooks/evaluate_by_batch.ipynb)
 
-```bash
-python evaluate_model.py --answers extracted_answers --golden bioasq10_golden --metrics output_metrics
-``` 
-
+Evaluate the fines-tuned model performance using precision, recall, F1-score for list-type questions, and MRR, strict, and lenient accuracy for factoid questions see (answer_extraction_evaluation.ipynb)[notebooks/answer_extraction_evaluation.ipynb]
 
 ## Future Work
 
