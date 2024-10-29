@@ -24,13 +24,10 @@ To set up this repository, follow these steps:
    source env/bin/activate
    ```
 
-3. Install the required dependencies:
+3. Run init.py to set up all the dependencies like install required python packeges and directories:
    ```bash
-   pip install -r requirements.txt
+   python init.py
    ```
-
-4. Download pre-trained models (optional):
-   - You can download and fine-tune the MiniLM model from the Hugging Face model hub.
 
 ## Usage
 
