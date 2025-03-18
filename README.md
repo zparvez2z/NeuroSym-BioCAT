@@ -55,9 +55,7 @@ Evaluate the fines-tuned model performance using precision, recall, F1-score for
 ## Future Work
 
 Planned improvements for **NeuroSym-BioCAT** include:
-- Task 1
-- Task 2
-- Task 3
+- optimizing the topic model with an expanded volume of domain-specific data
 
 ## License
 
